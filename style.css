@@ -99,6 +99,7 @@ button{
     padding: 20px;
     width: 50%;
     border: none;
+    outline:none;
     
 }
 
